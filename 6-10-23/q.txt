@@ -1,0 +1,14 @@
+string
+
+input: wwwttxxeeqw
+output: w3t2x2e2q1w1
+
+
+input: tttwwweeuuqtt
+ouput: t3w3e2u2qt2
+
+
+Time comp: O(n)
+Hashmap 
+
+
